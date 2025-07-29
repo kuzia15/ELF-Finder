@@ -20,7 +20,7 @@
 >    ```  
 > 3. Run the script:  
 >    ```bash  
->    python elf_finder.py  
+>    python main.py  
 >    ```  
 > 4. Follow interactive prompts:  
 >    - Enter path to main `.so` library  
