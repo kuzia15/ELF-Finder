@@ -29,6 +29,8 @@
 
 # ᐳ Example
 
+<img width="577" height="93" alt="image" src="https://github.com/user-attachments/assets/66f1900c-326b-4286-816e-1c8e8217bcc9" />
+<img width="577" height="93" alt="image" src="https://github.com/user-attachments/assets/58409311-01a3-486f-8e19-402a722eb4a1" />
 
 
 # ᐳ Credit's
