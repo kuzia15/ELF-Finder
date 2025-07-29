@@ -16,7 +16,7 @@
 > 1. Clone or download the repo  
 > 2. Install dependencies:  
 >    ```bash  
->    pip install lief  
+>    pip install -r requirements.txt 
 >    ```  
 > 3. Run the script:  
 >    ```bash  
