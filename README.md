@@ -35,3 +35,5 @@
 
 # ᐳ Credit's
 kuzia15 — author, maintainer, code & ideas
+
+![license](https://imgur.com/QQlcEVT.png)
