@@ -2,7 +2,7 @@
 
 # ᐳ Description  
 > * Language: `Python 3`  
-> * Purpose: `Search functions by offset or name in ELF shared libs (.so)`  
+* Purpose: `Parse and analyze ELF shared libraries (.so) of various architectures to search for functions by offset or name, enabling comparison of symbols across multiple ELF binaries.` 
 > * Dependencies: `lief`  
 > * Status: `Stable, tested on multiple ELF libraries`  
 
